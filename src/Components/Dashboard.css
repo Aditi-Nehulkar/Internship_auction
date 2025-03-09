@@ -1,0 +1,8 @@
+.auction-image {
+    width: 100%;  /* Ensures responsiveness */
+    height: auto; /* Allows full image to be shown */
+    max-height: 250px; /* Adjust as needed to control size */
+    object-fit: contain; /* Ensures the full image is visible without cropping */
+    border-radius: 8px; /* Smooth corners */
+  }
+  
